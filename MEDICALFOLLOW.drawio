@@ -1,0 +1,31 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:145.0) Gecko/20100101 Firefox/145.0" version="29.2.2">
+  <diagram name="Página-1" id="XKGvpg4gfmzb6pm8Fy91">
+    <mxGraphModel dx="946" dy="1027" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="m5Zzjv8oUMHhjIFSXJn9-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="&lt;div&gt;Médico&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="30" x="50" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="m5Zzjv8oUMHhjIFSXJn9-4" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" value="&lt;div&gt;Paciente&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="30" x="50" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="m5Zzjv8oUMHhjIFSXJn9-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;Actores&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="35" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m5Zzjv8oUMHhjIFSXJn9-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Acciones" vertex="1">
+          <mxGeometry height="30" width="60" x="280" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m5Zzjv8oUMHhjIFSXJn9-8" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;div&gt;- PRESCRIPCION MEDICA&lt;/div&gt;&lt;div&gt;- ACEPTAR CITA&lt;/div&gt;&lt;div&gt;- DENEGAR CITA&lt;/div&gt;&lt;div&gt;- SOLICITAR CITA&lt;/div&gt;&lt;div&gt;- DAR BAJA&lt;/div&gt;&lt;div&gt;- TERMINAR BAJA&lt;/div&gt;&lt;div&gt;- CONSULTAR HISTORICO PACIENTE&lt;/div&gt;&lt;div&gt;- ALTA ENFERMEDAD&lt;/div&gt;&lt;div&gt;- BAJA ENFERMEDAD&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="300" x="270" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="m5Zzjv8oUMHhjIFSXJn9-11" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;div&gt;- SOLICITAR CITA&lt;/div&gt;&lt;div&gt;- CONSULTA HISTORICO&lt;/div&gt;&lt;div&gt;- CONSULTA TRATAMIENTO&lt;/div&gt;&lt;div&gt;- AGREGAR&amp;nbsp; NOTA A TRATAMIENTO ACTIVO&lt;/div&gt;&lt;div&gt;- BORRAR NOTA A TRATAMIENTO ACTIVO ACTUAL&lt;/div&gt;&lt;div&gt;- EDITAR NOTA A TRATAMIENTO&amp;nbsp;ACTIVO ACTUAL&lt;/div&gt;" vertex="1">
+          <mxGeometry height="140" width="300" x="270" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="m5Zzjv8oUMHhjIFSXJn9-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;div&gt;Actores&lt;/div&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="40" y="520" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
