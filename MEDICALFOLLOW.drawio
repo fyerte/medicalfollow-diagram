@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:145.0) Gecko/20100101 Firefox/145.0" version="29.2.2">
   <diagram name="Página-1" id="XKGvpg4gfmzb6pm8Fy91">
-    <mxGraphModel dx="2000" dy="1155" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="1027" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -49,7 +49,7 @@
             <mxRectangle height="30" width="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m5Zzjv8oUMHhjIFSXJn9-19" parent="m5Zzjv8oUMHhjIFSXJn9-17" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" value="&lt;div&gt;id_patient&lt;/div&gt;" vertex="1">
+        <mxCell id="m5Zzjv8oUMHhjIFSXJn9-19" parent="m5Zzjv8oUMHhjIFSXJn9-17" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" value="&lt;div&gt;patient_id&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="150" x="30" as="geometry">
             <mxRectangle height="30" width="150" as="alternateBounds" />
           </mxGeometry>
@@ -62,7 +62,7 @@
             <mxRectangle height="30" width="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m5Zzjv8oUMHhjIFSXJn9-22" parent="m5Zzjv8oUMHhjIFSXJn9-20" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" value="id_doctor" vertex="1">
+        <mxCell id="m5Zzjv8oUMHhjIFSXJn9-22" parent="m5Zzjv8oUMHhjIFSXJn9-20" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" value="&lt;div&gt;doctor_id&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="150" x="30" as="geometry">
             <mxRectangle height="30" width="150" as="alternateBounds" />
           </mxGeometry>
@@ -143,7 +143,7 @@
             <mxRectangle height="30" width="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m5Zzjv8oUMHhjIFSXJn9-55" parent="m5Zzjv8oUMHhjIFSXJn9-53" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" value="&lt;div&gt;id_medical_appointment&lt;/div&gt;" vertex="1">
+        <mxCell id="m5Zzjv8oUMHhjIFSXJn9-55" parent="m5Zzjv8oUMHhjIFSXJn9-53" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" value="&lt;div&gt;medical_appointment_id&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="150" x="30" as="geometry">
             <mxRectangle height="30" width="150" as="alternateBounds" />
           </mxGeometry>
@@ -237,7 +237,7 @@
             <mxRectangle height="30" width="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m5Zzjv8oUMHhjIFSXJn9-83" parent="m5Zzjv8oUMHhjIFSXJn9-81" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" value="&lt;div&gt;id_medical_prescription&lt;/div&gt;" vertex="1">
+        <mxCell id="m5Zzjv8oUMHhjIFSXJn9-83" parent="m5Zzjv8oUMHhjIFSXJn9-81" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" value="&lt;div&gt;medical_prescription_id&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="180" x="30" as="geometry">
             <mxRectangle height="30" width="180" as="alternateBounds" />
           </mxGeometry>
@@ -331,7 +331,7 @@
             <mxRectangle height="30" width="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m5Zzjv8oUMHhjIFSXJn9-99" parent="m5Zzjv8oUMHhjIFSXJn9-97" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" value="&lt;div&gt;id_medical_treatment&lt;/div&gt;" vertex="1">
+        <mxCell id="m5Zzjv8oUMHhjIFSXJn9-99" parent="m5Zzjv8oUMHhjIFSXJn9-97" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" value="&lt;div&gt;medical_treatment_id&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="190" x="30" as="geometry">
             <mxRectangle height="30" width="190" as="alternateBounds" />
           </mxGeometry>
@@ -425,7 +425,7 @@
             <mxRectangle height="30" width="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m5Zzjv8oUMHhjIFSXJn9-143" parent="m5Zzjv8oUMHhjIFSXJn9-141" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" value="&lt;div&gt;id_medical_prescription&lt;/div&gt;" vertex="1">
+        <mxCell id="m5Zzjv8oUMHhjIFSXJn9-143" parent="m5Zzjv8oUMHhjIFSXJn9-141" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" value="&lt;div&gt;medical_prescription_id&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="180" x="30" as="geometry">
             <mxRectangle height="30" width="180" as="alternateBounds" />
           </mxGeometry>
@@ -584,7 +584,7 @@
             <mxRectangle height="30" width="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m5Zzjv8oUMHhjIFSXJn9-180" parent="m5Zzjv8oUMHhjIFSXJn9-178" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" value="specialization" vertex="1">
+        <mxCell id="m5Zzjv8oUMHhjIFSXJn9-180" parent="m5Zzjv8oUMHhjIFSXJn9-178" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" value="specialty" vertex="1">
           <mxGeometry height="30" width="180" x="30" as="geometry">
             <mxRectangle height="30" width="180" as="alternateBounds" />
           </mxGeometry>
@@ -678,7 +678,7 @@
             <mxRectangle height="30" width="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="m5Zzjv8oUMHhjIFSXJn9-202" parent="m5Zzjv8oUMHhjIFSXJn9-200" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" value="specialization" vertex="1">
+        <mxCell id="m5Zzjv8oUMHhjIFSXJn9-202" parent="m5Zzjv8oUMHhjIFSXJn9-200" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="30" width="180" x="30" as="geometry">
             <mxRectangle height="30" width="180" as="alternateBounds" />
           </mxGeometry>
@@ -718,6 +718,9 @@
             <mxPoint x="950" y="1070" as="sourcePoint" />
             <mxPoint x="1050" y="910" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="cXUeBvRUn4SfFd0mqCoD-2" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;UI&lt;/h1&gt;&lt;p&gt;Responsive Web App.&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Mobile App? -&amp;gt; Nop, componente unico, ya es responsiva desde navegador&lt;/div&gt;&lt;div&gt;Windows App? -&amp;gt; creo que ya he contestado, aunquee... porque no una app web descargable en escritorio? PWA omggg yes&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="720" x="40" y="1400" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
